@@ -1,2 +1,16 @@
-./ingestion/.venv
-./ingestion/_pycache_
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+sentimate-env/
+**/.venv/
+**/venv/
+**/sentimate-env/
+
+# VSCode or PyCharm settings (optional, but useful)
+.vscode/
+.idea/
