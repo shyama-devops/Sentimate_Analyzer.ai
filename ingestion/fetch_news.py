@@ -21,5 +21,3 @@ def get_news():
     else:
         return {"error": "Failed to fetch news", "status_code": response.status_code}
 
-
-get_news()
