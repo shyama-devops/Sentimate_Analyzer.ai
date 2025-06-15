@@ -11,6 +11,3 @@ sentimate-env/
 **/venv/
 **/sentimate-env/
 
-# VSCode or PyCharm settings (optional, but useful)
-.vscode/
-.idea/
